@@ -22,14 +22,14 @@ Addressing this issue can get a lot of benefits.
 
 ## Data Collection Strategy 🔍:
 
-🔸Application Data: This basically means the demographical information about the job, and the assets which are retrieved from online applications.
-🔸Credit Bureau Data: Given we work together with organizations that perform these services such as Equifax and Experian, we can gain insight from the history of repayment behavior, the existing debts, and how much credit is used.
-🔸Behavioral Data: We can study the behavior of current customers on how they spend, and how they pay their bills, but we have to have their permission.
+🔸Application Data: This basically means the demographical information about the job, and the assets which are retrieved from online applications.  
+🔸Credit Bureau Data: Given we work together with organizations that perform these services such as Equifax and Experian, we can gain insight from the history of repayment behavior, the existing debts, and how much credit is used.  
+🔸Behavioral Data: We can study the behavior of current customers on how they spend, and how they pay their bills, but we have to have their permission.  
 🔸Alternative Data: A check of rent payments and utility bills serves as an indicator to help judges applicants who have little credit history, still doing so privacy regulation compliance.All these data collecting will be in accordance with the laws that protect personal information.
 
 ## Machine Learning Approach:
 
 ### We can formulate this problem as a binary classification problem:
-✅ Goal: Use more than 25 features to predict if an applicant will be in good standing.
-✅ Main goal: Accept more applications with a lower chance of defaults.
+✅ Goal: Use more than 25 features to predict if an applicant will be in good standing.  
+✅ Main goal: Accept more applications with a lower chance of defaults.  
 ✅ Anticipated Result: Achieve excellent performance with a low default rate and a good AUC-ROC score.
